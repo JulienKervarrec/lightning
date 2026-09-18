@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours en quatre chapitres consacré à l’implémentation Lightning orientée conformité BOLT, canaux et extensibilité par plugins est disponible dans [docs/fr/](docs/fr/).
+
 # Core Lightning (CLN): A specification compliant Lightning Network implementation in C
 
 Core Lightning (previously c-lightning) is a lightweight, highly customizable and [standard compliant][std] implementation of the Lightning Network protocol, developed and maintained by [Blockstream][blockstream]. Learn more about Blockstream's Lightning Network updates at [blockstream.com/lightning][blockstream-lightning].
